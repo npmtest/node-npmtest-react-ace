@@ -1,0 +1,30 @@
+<svg height="430" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="430" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">17 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY react@^0.13.0 || ^0.14.0 || ^15.0.1</tspan>
+<tspan x="10" y="90">├─┬ react-ace@4.2.1 </tspan>
+<tspan x="10" y="106">│ ├─┬ brace@0.9.1 </tspan>
+<tspan x="10" y="122">│ │ └── w3c-blob@0.0.1 </tspan>
+<tspan x="10" y="138">│ ├── lodash.isequal@4.5.0 </tspan>
+<tspan x="10" y="154">│ └─┬ prop-types@15.5.8 </tspan>
+<tspan x="10" y="170">│   └─┬ fbjs@0.8.12 </tspan>
+<tspan x="10" y="186">│     ├── core-js@1.2.7 </tspan>
+<tspan x="10" y="202">│     ├─┬ isomorphic-fetch@2.2.1 </tspan>
+<tspan x="10" y="218">│     │ ├─┬ node-fetch@1.6.3 </tspan>
+<tspan x="10" y="234">│     │ │ ├─┬ encoding@0.1.12 </tspan>
+<tspan x="10" y="250">│     │ │ │ └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="266">│     │ │ └── is-stream@1.1.0 </tspan>
+<tspan x="10" y="282">│     │ └── whatwg-fetch@2.0.3 </tspan>
+<tspan x="10" y="298">│     ├─┬ loose-envify@1.3.1 </tspan>
+<tspan x="10" y="314">│     │ └── js-tokens@3.0.1 </tspan>
+<tspan x="10" y="330">│     ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="346">│     ├─┬ promise@7.1.1 </tspan>
+<tspan x="10" y="362">│     │ └── asap@2.0.5 </tspan>
+<tspan x="10" y="378">│     ├── setimmediate@1.0.5 </tspan>
+<tspan x="10" y="394">│     └── ua-parser-js@0.7.12 </tspan>
+<tspan x="10" y="410">└── UNMET PEER DEPENDENCY react-dom@^0.13.0 || ^0.14.0 || ^15.0.1</tspan>
+</text>
+</svg>
